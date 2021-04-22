@@ -8,17 +8,17 @@ It creates an account only if OTP has been verified. It uses sqlite database for
 * **random**
 * **datetime**
 
-#### PyQt5
+#### <u>PyQt5</u>
 Used **Qt Designer** for create awesome GUIs and used some css so that it looks better.
 
-#### sqlite3
+#### <u>sqlite3</u>
 Used **sqlite studio** for create *Database*.
 
-#### smtplib
+#### <u>smtplib</uu>
 Sending **OTP** for verify _Email_.
 
-#### random
+#### <u>random</u>
 Generate random 6-digits OTP. 
 
-#### datetime
+#### <u>datetime</u>
 Take real date and time when account is made.
