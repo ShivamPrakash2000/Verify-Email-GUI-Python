@@ -26,7 +26,7 @@ It creates an account only if OTP has been verified. It uses sqlite database for
 
 #### datetime
 ----
-* Take real date and time when account is made.
+* Take real date and time when account is created.
 
 ## How to use this?
 * Make sure all modules are working in your device. Check **Used Modules** section.
