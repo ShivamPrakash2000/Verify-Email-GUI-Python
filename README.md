@@ -8,17 +8,27 @@ It creates an account only if OTP has been verified. It uses sqlite database for
 * **random**
 * **datetime**
 
-#### <u>PyQt5</u>
-Used **Qt Designer** for create awesome GUIs and used some css so that it looks better.
+#### PyQt5
+----
+* Used **Qt Designer** for create awesome GUIs and used some css so that it looks better.
 
-#### <u>sqlite3</u>
-Used **sqlite studio** for create *Database*.
+#### sqlite3
+----
+* Used **sqlite studio** for create *Database*.
 
-#### <u>smtplib</uu>
-Sending **OTP** for verify _Email_.
+#### smtplib
+----
+* Sending **OTP** for verify _Email_.
 
-#### <u>random</u>
-Generate random 6-digits OTP. 
+#### random
+----
+* Generate random 6-digits OTP. 
 
-#### <u>datetime</u>
-Take real date and time when account is made.
+#### datetime
+----
+* Take real date and time when account is made.
+
+## How to use this?
+* Make sure all modules are working in your device. Check **Used Modules** section.
+* After downloading, you have to update ***senderdetail.py*** file. Change EMAIL and PASSWORD with your email and password.
+* Make sure you have enabled less secure apps. [Click here to know about this](!https://support.google.com/accounts/answer/6010255?hl=en#:~:text=If%20an%20app%20or%20site,helps%20keep%20your%20account%20safe.)
