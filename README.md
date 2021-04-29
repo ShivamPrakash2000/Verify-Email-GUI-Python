@@ -1,5 +1,6 @@
 # Verify-Email-GUI-Python
 It creates an account only if OTP has been verified. It uses sqlite database for store information.
+![image]("https://drive.google.com/file/d/14uBfvCqHOTwnPBDTFZ2cU4vx16Ud2Dub/view?usp=sharing")
 
 ## Used Modules
 * **PyQt5**
