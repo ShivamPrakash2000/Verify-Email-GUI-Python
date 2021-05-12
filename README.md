@@ -10,7 +10,7 @@ It creates an account only if OTP has been verified. It uses sqlite database for
 
 ## Image
 ----
-![A Test Image](Capture_1.PNG)
+![A Test Image](Check.PNG)
 
 #### PyQt5
 ----
