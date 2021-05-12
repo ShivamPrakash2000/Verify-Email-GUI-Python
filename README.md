@@ -8,6 +8,10 @@ It creates an account only if OTP has been verified. It uses sqlite database for
 * **random**
 * **datetime**
 
+## Image
+----
+![A Test Image](Capture_1.PNG)
+
 #### PyQt5
 ----
 * Used **Qt Designer** for create awesome GUIs and used some css so that it looks better.
